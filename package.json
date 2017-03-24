@@ -4,7 +4,7 @@
   "description": "To test mongodb vs mysql crud",
   "main": "app.js", 
   "author": "mark kumar",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
 		"body-parser" :"*",
 		"chance": "*",
