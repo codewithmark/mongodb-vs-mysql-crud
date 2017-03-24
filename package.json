@@ -1,9 +1,11 @@
 {
-	"name": "mongodb-vs-mysql-crud",
-	"version": "1.0",
-	"description": "To test mongodb vs mysql crud",	
-	"dependencies": 
-	{	 
+  "name": "mongodb-vs-mysql-crud-master",
+  "version": "1.0.0",
+  "description": "To test mongodb vs mysql crud",
+  "main": "app.js", 
+  "author": "mark kumar",
+  "license": "ISC",
+  "dependencies": {
 		"body-parser" :"*",
 		"chance": "*",
 		"express": "*",
@@ -11,8 +13,7 @@
 		"moment": "*",			
 		"mongodb": "*",
 		"mysql": "*"
-		
-	}
- 
+    }
 }
+
  
