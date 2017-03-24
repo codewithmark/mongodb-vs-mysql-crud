@@ -10,7 +10,7 @@
 		"lodash" : "*",
 		"moment": "*",			
 		"mongodb": "*",
-		"mysql": "*",
+		"mysql": "*"
 		
 	}
  
