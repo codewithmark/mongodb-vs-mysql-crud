@@ -1,0 +1,18 @@
+{
+	"name": "mongodb-vs-mysql-crud",
+	"version": "1.0",
+	"description": "To test mongodb vs mysql crud",	
+	"dependencies": 
+	{	 
+		"body-parser" :"*",
+		"chance": "*",
+		"express": "*",
+		"lodash" : "*",
+		"moment": "*",			
+		"mongodb": "*",
+		"mysql": "*",
+		
+	}
+ 
+}
+ 
